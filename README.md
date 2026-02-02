@@ -2,6 +2,8 @@
 
 Jegor Ivanovič Zujev
 
+Student of [SPŠE Ječná, Praha 2](spsejecna.cz)
+
 ---
 
 ## Bank node
